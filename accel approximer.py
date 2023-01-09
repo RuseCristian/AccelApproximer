@@ -56,6 +56,8 @@ number_of_gears = len(gr)-1
 lift_coef = float(config['car']['lift_coeficient'])
 downforce_total_area = float(config['car']['downforce_total_area'])
 
+# fa o clasa care doar citeste si importeaza fisiere.ini
+#
 
 g = 9.81
 
