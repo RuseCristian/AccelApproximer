@@ -13,3 +13,8 @@ Please note that this repository represents a prototype version of the app. A ne
 # Contributing
 
 Contributions to the project are welcome! Please submit pull requests or open issues if you encounter any bugs or have suggestions for improvements.
+
+# Photo Showcase
+![firefox_wv0TvNhPlE](https://user-images.githubusercontent.com/99805998/227724267-e95029fa-0b69-4d88-9479-6acb3f178aaa.png)
+![python_rH4bDEe3bF](https://user-images.githubusercontent.com/99805998/227724270-d0792af0-b347-4140-85fd-3e41ef82ca5d.png)
+![python_NVsoLheu8W](https://user-images.githubusercontent.com/99805998/227724271-642d13f3-d0b5-4d09-af53-2c64baae1ffe.png)
